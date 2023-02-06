@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\opz\opz\source.cpp(36): warning C4101: t: неиспользованная локальная переменная
+d:\demon files\university\алгоритмы и структуры данных\opz\opz\source.cpp(139): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\demon files\university\алгоритмы и структуры данных\opz\opz\source.cpp(140): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\demon files\university\алгоритмы и структуры данных\opz\opz\source.cpp(152): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+d:\demon files\university\алгоритмы и структуры данных\opz\opz\source.cpp(121): warning C4101: num: неиспользованная локальная переменная
+d:\demon files\university\алгоритмы и структуры данных\opz\opz\source.cpp(20): warning C4715: prior: значение возвращается не при всех путях выполнения
+  OPZ.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\OPZ\Debug\OPZ.exe
+  OPZ.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\OPZ\Debug\OPZ.pdb (Partial PDB)

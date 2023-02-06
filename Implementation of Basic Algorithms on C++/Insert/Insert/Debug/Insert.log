@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\insert\insert\source.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Insert.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Insert\Debug\Insert.exe
+  Insert.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Insert\Debug\Insert.pdb (Partial PDB)

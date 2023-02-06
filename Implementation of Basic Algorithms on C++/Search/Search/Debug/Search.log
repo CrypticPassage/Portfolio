@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\search\search\source.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Search.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Search\Debug\Search.exe
+  Search.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Search\Debug\Search.pdb (Partial PDB)

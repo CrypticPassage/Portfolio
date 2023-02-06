@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\sort from max\sort from max\source.cpp(37): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sort From Max.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Sort From Max\Debug\Sort From Max.exe
+  Sort From Max.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Sort From Max\Debug\Sort From Max.pdb (Partial PDB)

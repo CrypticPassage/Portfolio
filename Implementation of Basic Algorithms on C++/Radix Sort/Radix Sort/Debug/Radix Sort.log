@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\radix sort\radix sort\source.cpp(100): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Radix Sort.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Radix Sort\Debug\Radix Sort.exe
+  Radix Sort.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Radix Sort\Debug\Radix Sort.pdb (Partial PDB)

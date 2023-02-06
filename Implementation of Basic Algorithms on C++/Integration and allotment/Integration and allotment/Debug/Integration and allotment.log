@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\integration and allotment\integration and allotment\source.cpp(93): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Integration and allotment.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Integration and allotment\Debug\Integration and allotment.exe
+  Integration and allotment.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Integration and allotment\Debug\Integration and allotment.pdb (Partial PDB)

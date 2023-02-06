@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\input in file\input in file\source.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Input In File.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Input In File\Debug\Input In File.exe
+  Input In File.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Input In File\Debug\Input In File.pdb (Partial PDB)

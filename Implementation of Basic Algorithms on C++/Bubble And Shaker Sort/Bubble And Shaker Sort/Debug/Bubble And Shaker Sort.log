@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\bubble and shaker sort\bubble and shaker sort\source.cpp(28): warning C4101: i: неиспользованная локальная переменная
+d:\demon files\university\алгоритмы и структуры данных\bubble and shaker sort\bubble and shaker sort\source.cpp(72): warning C4101: i: неиспользованная локальная переменная
+d:\demon files\university\алгоритмы и структуры данных\bubble and shaker sort\bubble and shaker sort\source.cpp(499): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bubble And Shaker Sort.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Bubble And Shaker Sort\Debug\Bubble And Shaker Sort.exe
+  Bubble And Shaker Sort.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Bubble And Shaker Sort\Debug\Bubble And Shaker Sort.pdb (Partial PDB)

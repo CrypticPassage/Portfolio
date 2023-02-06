@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\demon files\university\алгоритмы и структуры данных\tower\tower\source.cpp(24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Tower.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Tower\Debug\Tower.exe
+  Tower.vcxproj -> D:\demon files\University\Алгоритмы и Структуры Данных\Tower\Debug\Tower.pdb (Partial PDB)
